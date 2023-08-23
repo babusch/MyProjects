@@ -1,0 +1,31 @@
+[
+  {
+    "username": "admin",
+    "password": "1234",
+    "accounts": []
+  },
+  {
+    "username": "jens",
+    "password": "1234",
+    "accounts": [
+      {
+        "account_number": "4321",
+        "account_balance": 900
+      }
+    ]
+  },
+  {
+    "username": "james",
+    "password": "1234",
+    "accounts": [
+      {
+        "account_number": "6666",
+        "account_balance": 1200
+      },
+      {
+        "account_number": "7777",
+        "account_balance": 4500
+      }
+    ]
+  }
+]

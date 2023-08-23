@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "The_Village_of_Testing_Jens_Kjellberg/1.0.0": {
+        "runtime": {
+          "The_Village_of_Testing_Jens_Kjellberg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The_Village_of_Testing_Jens_Kjellberg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
